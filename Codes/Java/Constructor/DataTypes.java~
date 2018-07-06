@@ -1,0 +1,15 @@
+class DataTypes {
+  public static void main(String[] args){
+    // All data types have some operations that can be performed on them 
+    
+    // String 
+    String info = "My name is Oliver ";
+    System.out.println(info);
+    //operations on strin
+    // Concatenation 
+    info = info + " and email is olivermensah96@gmail.com";
+    System.out.println(info);
+    
+    
+  }
+}
